@@ -14,7 +14,10 @@ A powerful sms bomber for Iranian people
 git clone https://github.com/Aliii000/bomber.git
 
 ```
-
+- وارد فولدر شوید📁
+```bash
+cd bomber
+```
 - پکیج ها را نصب کنید 🔻
 ```bash
 pip install -r requirements.txt
