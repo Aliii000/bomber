@@ -16,10 +16,11 @@ git clone https://github.com/Aliii000/bomber.git
 ```
 
 - پکیج ها را نصب کنید 🔻
-
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 - لذت ببرید 🧨🎈
-
+```bash
 `python bomber.py +989xxxxxxxxx --threads 10 --proxies`
-
+```
