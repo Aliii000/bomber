@@ -11,7 +11,7 @@ A powerful sms bomber for Iranian people
 
 - 🔗پروژه را کلون کنید 
 ```bash
-`git clone https://github.com/Aliii000/bomber.git`
+git clone https://github.com/Aliii000/bomber.git
 
 ```
 
