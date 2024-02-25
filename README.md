@@ -2,9 +2,9 @@
 A powerful sms bomber for Iranian people
 -------------------------------------
 # 📑پیش نیاز ها برای ترموکس
-1. `pkg install Python3.11`
-2. PyStyle
-3. PyStyle
+1. `pkg install Python 3.11`
+2. `pkg install PyStyle`
+3. `pkg install PyStyle`
 
 # نصب و راه اندازی
 
