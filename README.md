@@ -10,8 +10,9 @@ A powerful sms bomber for Iranian people
 # نصب و راه اندازی
 
 - 🔗پروژه را کلون کنید 
-
-`git clone https://github.com/Aliii000/bomber.git`
+```bash
+git clone https://github.com/Aliii000/bomber.git
+```
 
 - پکیج ها را نصب کنید 🔻
 
