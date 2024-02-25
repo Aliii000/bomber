@@ -27,3 +27,7 @@ pip install -r requirements.txt
 ```bash
 python bomber.py +989xxxxxxxxx --threads 10 --proxies
 ```
+- راهنمایی نیاز دارید؟
+```bash
+python bomber.py 
+```
