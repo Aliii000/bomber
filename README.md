@@ -1,5 +1,5 @@
 # Sms-bomber
-- A powerful sms bomber for Iranian people
+ A powerful sms bomber for Iranian people
 -------------------------------------
 # 📑پیش نیاز ها  
 1.  git
