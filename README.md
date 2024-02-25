@@ -9,4 +9,4 @@ A powerful sms bomber for Iranian people
 # نصب و راه اندازی
 پروژه را کلون کنید 
 
-` [پروژه را کلون کنید](git colne https://github.com/Aliii000/bomber.git)`
+`git colne https://github.com/Aliii000/bomber.git`
