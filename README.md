@@ -7,5 +7,5 @@ A powerful sms bomber for Iranian people
 3. PyStyle
 
 # نصب و راه اندازی
-
+پروژه را کلون کنید 
 `code`
