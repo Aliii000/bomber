@@ -6,4 +6,6 @@ A powerful sms bomber for Iranian people
 2. PyStyle
 3. PyStyle
 
+# نصب و راه اندازی
 
+`code`
